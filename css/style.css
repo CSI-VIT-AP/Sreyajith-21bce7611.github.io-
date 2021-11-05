@@ -274,19 +274,6 @@ footer p{
     color: rgb(70, 44, 12);
     line-height:10px;
 }
-.social-icons a{
-    width: 40px;
-    height:40px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    background-color:#e6e3e3;
-    margin:20px 10px;
-    border-radius:50%;
-}
-.social-icons{
-    display: flex;
-}
 .social-icons ul {
     position: absolute;
     top: 50%;
